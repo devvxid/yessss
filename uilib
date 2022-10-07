@@ -248,7 +248,7 @@ end
 
 local main = Instance.new("Frame")
 main.Name = "Main"
-main.BackgroundColor3 = Color3.fromRGB(27, 27, 27)
+main.BackgroundColor3 = Color3.fromRGB(144, 144, 244)
 main.BorderSizePixel = 0
 main.ClipsDescendants = true
 main.Position = UDim2.new(0.361, 0, 0.308, 0)
@@ -262,7 +262,7 @@ uICorner.Parent = main
 
 local topbar = Instance.new("Frame")
 topbar.Name = "Topbar"
-topbar.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+topbar.BackgroundColor3 = Color3.fromRGB(144, 144, 244)
 topbar.Size = UDim2.new(0, 450, 0, 31)
 topbar.Parent = main
 topbar.ZIndex = 2
